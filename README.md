@@ -1,4 +1,4 @@
-# Word-Search-Application-Utilizing-Brute-Force-and-KMP-Algorithms
+## Word Search Application Utilizing Brute Force and KMP Algorithms
 This Python application allows users to perform pattern searching in text files using **Brute Force** and **Knuth-Morris-Pratt (KMP)** algorithms. It features a graphical user interface (GUI) built with Tkinter.
 
 ## Features
@@ -26,7 +26,7 @@ This Python application allows users to perform pattern searching in text files 
 - Click the "Search" button to see results.
 
 # Example Output
-* Results will display:
+- Results will display:
 - File Name
 - Line Number
 - Column Number

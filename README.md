@@ -33,4 +33,4 @@ This Python application allows users to perform pattern searching in text files 
 - Matching Line Text
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the LICENSE file for details.

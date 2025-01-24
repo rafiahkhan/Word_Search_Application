@@ -15,3 +15,19 @@ This Python application allows users to perform pattern searching in text files 
 2. Run the application:
    ```bash
    python WordSearchApp.py
+
+## How to Use
+- Open the application.
+- Load text files using the "Load Files" button.
+- Enter the search term in the text box.
+- Choose search options:
+- Whole Word
+- Case Sensitive
+- Click the "Search" button to see results.
+
+# Example Output
+* Results will display:
+- File Name
+- Line Number
+- Column Number
+- Matching Line Text

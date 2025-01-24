@@ -25,9 +25,12 @@ This Python application allows users to perform pattern searching in text files 
 - Case Sensitive
 - Click the "Search" button to see results.
 
-# Example Output
+## Example Output
 - Results will display:
 - File Name
 - Line Number
 - Column Number
 - Matching Line Text
+
+## License
+This project is licensed under the MIT License.
